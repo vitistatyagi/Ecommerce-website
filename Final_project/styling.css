@@ -1,0 +1,38 @@
+/* Contents 
+1. common
+2. footer
+-----------------------------------------*/
+
+
+/*common
+------------------------------------------*/
+.row_style{
+    width: 45%;
+    margin: 0 auto;
+    padding-top: 10%;
+    height: 50%
+}
+
+/* footer 
+-----------------------------------------*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+    background-color: rgb(73, 73, 73);
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+}
+#cap{
+    font-size: 20px;
+}
+.foot {color:white;}
+a#foot :hover{
+    text-decoration: none;
+    color:white; }
+
+
+
+
